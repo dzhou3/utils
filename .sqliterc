@@ -1,0 +1,6 @@
+.headers ON 
+.mode column
+.eqp ON
+.timer ON
+.tables
+
