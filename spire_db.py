@@ -1,4 +1,7 @@
-import sqlite3, argparse
+#!/usr/bin/env python3
+
+import sqlite3
+import argparse
 class SqliteDatabase:
     def __init__(self, fpath):
         self._conn = sqlite3.connect(fpath)
